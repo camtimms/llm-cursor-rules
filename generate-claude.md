@@ -130,7 +130,6 @@ Use clear RFC-2119 language with emphasis:
 ```bash
 pnpm typecheck && pnpm lint && pnpm test
 ```
-```
 
 **4. Project Structure Map** (15-30 lines)
 ```markdown
